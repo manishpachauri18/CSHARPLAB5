@@ -1,0 +1,7 @@
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\bin\Debug\lab5prac2.exe.config
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\bin\Debug\lab5prac2.exe
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\bin\Debug\lab5prac2.pdb
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\obj\Debug\lab5prac2.csproj.AssemblyReference.cache
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\obj\Debug\lab5prac2.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\obj\Debug\lab5prac2.exe
+C:\Users\manis\source\repos\Lab5prac1\lab5prac2\obj\Debug\lab5prac2.pdb
